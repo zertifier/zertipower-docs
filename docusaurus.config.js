@@ -97,8 +97,8 @@ const config = {
         logo: {
           alt: 'RegenAg-x Logo',
           src: 'img/regenag-x.png',
-          // Use `to` so Docusaurus prefixes with baseUrl
-          to: 'documentacion/about/',
+          // Use `href` (logo does not support `to`)
+          href: 'documentacion/about/',
           target: '_self',
         },
         items: [
