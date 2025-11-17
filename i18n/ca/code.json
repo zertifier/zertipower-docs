@@ -11,6 +11,6 @@
   "footer.explore.videos": { "message": "Vídeos" },
   "footer.explore.contact": { "message": "Contacte" },
 
-  "site.title": { "message": "El Meu Lloc" },
+  "site.title": { "message": "" },
   "site.tagline": { "message": "Els dinosaures són genials" }
 }

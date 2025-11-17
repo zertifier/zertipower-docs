@@ -1,5 +1,5 @@
 {
-  "title": {"message": "El Meu Lloc", "description": "Títol a la barra superior"},
+  "title": {"message": "", "description": "Títol a la barra superior"},
   "logo.alt": {"message": "Logo del Meu Lloc", "description": "Text alternatiu del logo a la barra superior"},
   "item.label.Documentation": {"message": "Documentació", "description": "Element de la barra: Documentation"},
   "item.label.Cases": {"message": "Casos", "description": "Element de la barra: Cases"},
