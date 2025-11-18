@@ -43,7 +43,7 @@ const config = {
   // GitHub Pages project site: https://<org>.github.io/<projectName>/
   url: 'https://grexach-zertifier.github.io',
   // For GitHub Pages project sites, baseUrl must be '/<projectName>/'
-  baseUrl: '/regenag-x-docs/',
+  baseUrl: '/',
   trailingSlash: true,
 
   // GitHub pages deployment config.
