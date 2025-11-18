@@ -96,7 +96,8 @@ const config = {
         title: '',
         logo: {
           alt: 'RegenAg-x Logo',
-          src: 'img/regenag-x.png',
+          src: 'img/RegenagxLight.png',
+          srcDark: 'img/RegenagxDark.png',
           // Use `href` (logo does not support `to`)
           href: 'documentacion/about/',
           target: '_self',
