@@ -5,7 +5,7 @@ sidebar_label: "Polítiques (policy.json)"
 
 # Polítiques d'accés al mercat (policy.json)
 
-Als mercats de dades i de serveis (Ocean / Pontus‑X), cada actiu pot definir les seves regles d'ús mitjançant polítiques declaratives (p. ex., `policy.json`). Aquestes polítiques determinen qui pot comprar/consumir, sota quines condicions i amb quin nivell d'accés.
+Als mercats de dades i de serveis (Ocean), cada actiu pot definir les seves regles d'ús mitjançant polítiques declaratives (p. ex., `policy.json`). Aquestes polítiques determinen qui pot comprar/consumir, sota quines condicions i amb quin nivell d'accés.
 
 Què es pot expressar
 - Accés granular: camps, columnes o rangs temporals específics.

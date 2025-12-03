@@ -11,7 +11,6 @@ Components clau
 - Tokens i transaccions: cada actiu pot tokenitzar‑se (ERC‑20) per a governança i preus; el consum es paga per transacció on‑chain.
 - Ocean Node: orquestra publicació, permisos, Compute‑to‑Data i registre en blockchain.
 - Sistema distribuït: les dades romanen on són mentre el còmput es desplaça cap a la dada.
-- Pontus‑X: mercat anàleg/derivat alineat amb Gaia‑X per federar catàlegs i monetització, interoperant amb Credencials Verificables.
 
 Avantatges
 - Monetització transparent i auditables.
@@ -21,4 +20,3 @@ Avantatges
 Recursos
 - Ocean: https://oceanprotocol.com
 - IPFS: https://ipfs.tech
-- Pontus‑X: https://pontus-x.eu
