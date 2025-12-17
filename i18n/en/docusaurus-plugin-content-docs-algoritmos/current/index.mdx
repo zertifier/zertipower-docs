@@ -7,24 +7,37 @@ description: Compute-to-Data Algorithms for privacy-preserving data mining.
 
 This section details the algorithms used on our platform to preserve privacy while extracting valuable insights from sensitive data. Using the **Compute-to-Data (C2D)** paradigm, these algorithms run inside a secure container where the data resides, ensuring that raw information (satellite imagery, soil analyses, personal surveys) never leaves the protected environment. Only aggregated, anonymous, and statistical results are exported.
 
+## Algorithm Demonstration
+
+<div className="video-wrapper">
+  <iframe
+    src="https://www.youtube.com/embed/pbZwluz5MJc"
+    title="Algorithms Compute-to-Data"
+    className="video-iframe"
+    frameBorder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowFullScreen
+  ></iframe>
+</div>
+
 ## Algorithm Catalog
 
 Below are three main engines designed for different stages of agricultural data analysis:
 
-### 1. [Terrain Lab Input Audit & Pre-Processing Engine](./terrain-lab)
-**C2D Safe Inspector**
-
-A security inspector that verifies the integrity, format, and readability of soil and terrain lab files without exposing their content. Generates technical audit reports to ensure data is suitable for scientific analysis.
-[Read more](./terrain-lab)
-
-### 2. [Farm & Field Structural Analyzer](./structural-analyzer)
+### 1. [Farm & Field Structural Analyzer](./structural-analyzer)
 **Baseline Terrain Metrics Engine**
 
 A foundational diagnostic tool that counts farms, fields, analyses, and measurement density. Provides an overview of dataset structure and completeness without revealing specific sample values.
 [Read more](./structural-analyzer)
 
-### 3. [Survey Insight Engine](./survey-insight)
+### 2. [Survey Insight Engine](./survey-insight)
 **C2D Transform**
 
 An algorithm designed to process sensitive survey responses. Extracts behavioral patterns, sustainability concerns, and technology adoption metrics, transforming private responses into aggregated statistics ready for scientific publication.
 [Read more](./survey-insight)
+
+### 3. [Terrain Lab Input Audit & Pre-Processing Engine](./terrain-lab)
+**C2D Safe Inspector**
+
+A security inspector that verifies the integrity, format, and readability of soil and terrain lab files without exposing their content. Generates technical audit reports to ensure data is suitable for scientific analysis.
+[Read more](./terrain-lab)
