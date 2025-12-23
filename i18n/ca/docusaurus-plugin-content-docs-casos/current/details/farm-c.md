@@ -1,5 +1,6 @@
 ---
-title: Pilot Beira Baixa - Granja C
+title: Pastura de Bestiar de Carn i Pertorbació del Sòl (Beira Baixa)
+sidebar_label: Bestiar de Carn (Beira Baixa)
 ---
 
 ## Context i Ubicació

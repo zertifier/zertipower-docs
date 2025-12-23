@@ -1,5 +1,6 @@
 ---
-title: Pilot Beira Baixa - Granja B
+title: Pastura Regenerativa en Cabres Lleteres (Beira Baixa)
+sidebar_label: Pastura de Cabres (Beira Baixa)
 ---
 
 ## Context i Ubicació

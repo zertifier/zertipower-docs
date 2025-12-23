@@ -1,5 +1,6 @@
 ---
-title: Pilot Açores - Granja A
+title: Sistema d'Ensilatge de Vaques Lleteres (Açores)
+sidebar_label: Sistema d'Ensilatge (Açores)
 ---
 
 ## Context i Ubicació

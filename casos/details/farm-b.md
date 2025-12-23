@@ -1,5 +1,6 @@
 ---
-title: Pilot Beira Baixa - Farm B
+title: Regenerative Pasture in Dairy Goat Farming (Beira Baixa)
+sidebar_label: Goat Pasture (Beira Baixa)
 ---
 
 ## Context & Location

@@ -1,5 +1,6 @@
 ---
-title: Pilot Beira Baixa - Farm C
+title: Beef Cattle Grazing & Soil Disturbance (Beira Baixa)
+sidebar_label: Beef Cattle (Beira Baixa)
 ---
 
 ## Context & Location

@@ -1,5 +1,6 @@
 ---
-title: Piloto Azores - Granja A
+title: Sistema de Ensilaje de Vacas Lecheras (Azores)
+sidebar_label: Sistema de Ensilaje (Azores)
 ---
 
 ## Contexto y Ubicación

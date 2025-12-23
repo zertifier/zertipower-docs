@@ -1,5 +1,6 @@
 ---
-title: Piloto Beira Baixa - Granja C
+title: Pastoreo de Ganado de Carne y Perturbación del Suelo (Beira Baixa)
+sidebar_label: Ganado de Carne (Beira Baixa)
 ---
 
 ## Contexto y Ubicación

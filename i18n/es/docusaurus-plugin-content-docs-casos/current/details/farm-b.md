@@ -1,5 +1,6 @@
 ---
-title: Piloto Beira Baixa - Granja B
+title: Pastoreo Regenerativo en Cabras Lecheras (Beira Baixa)
+sidebar_label: Pastoreo de Cabras (Beira Baixa)
 ---
 
 ## Contexto y Ubicación

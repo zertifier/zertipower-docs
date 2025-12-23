@@ -1,5 +1,6 @@
 ---
-title: Pilot Azores -Farm A
+title: Dairy Cow Silage System (Azores)
+sidebar_label: Silage System (Azores)
 ---
 
 ## Context & Location
