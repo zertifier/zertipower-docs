@@ -29,6 +29,4 @@ Referències concises i cercables d’ordres, opcions i components.
 - PMF i resolució d’incidències
 
 ## Próxims passos
-- Explora els Casos per veure com ho utilitzen altres
-- Mira Vídeos amb demos i xerrades
 - Necessites ajuda? Visita Contacte

@@ -8,7 +8,7 @@ sidebar_label: About RegenAg-x
 
 RegenAg-X is a lighthouse data space specialized in regenerative agricultural systems, designed to enable a federated, secure and auditable environment for agrifood data exchange and processing. Its objective is to validate—under real operational conditions—the technical, organisational and economic capabilities required to operate a sector-specific data space aligned with principles of data sovereignty, secure computation and decentralised governance.
 
-The lighhouse incorporates a technical support model to facilitate the participation of farmers, cooperatives, technology companies and research institutions that lack the resources to independently develop complex use cases. This approach allows for precise assessment of integration, standardisation and service orchestration requirements across the agrifood supply chain.
+The lighhouse incorporates a technical support model to facilitate the participation of farmers, cooperatives, technology companies and research institutions that lack the resources to independently develop complex applications. This approach allows for precise assessment of integration, standardisation and service orchestration requirements across the agrifood supply chain.
 
 ## Governance and operational roles
 
@@ -26,7 +26,7 @@ Role assignment is managed through verifiable identities based on Web3 technolog
 
 ## Technical architecture and secure computation
 
-The lighthouse integrates advanced compute-to-data capabilities through the Ocean Enterprise Collective, enabling algorithms to be executed directly on source datasets without transferring or replicating them. This preserves confidentiality and ensures data sovereignty by design.
+The lighthouse integrates advanced compute-to-data capabilities through the Ocean Enterprise Collective, enabling processes to be executed directly on source datasets without transferring or replicating them. This preserves confidentiality and ensures data sovereignty by design.
 
 ![RegenAg-X Model](/img/about.png)
 
@@ -46,7 +46,7 @@ RegenAg-X incorporates semantic transformation services to ensure interoperabili
 The semantic model includes:
 
 * Normalisation of formats (JSON, CSV, XML)  
-* Ontology mappings and domain vocabularies for agricultural and regenerative use cases  
+* Ontology mappings and domain vocabularies for agricultural and regenerative scenarios
 * Automatic validation of structures and usage conditions  
 * Publication in federated catalogues for discovery and reuse
 

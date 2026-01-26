@@ -29,6 +29,4 @@ Referencias concisas y fáciles de buscar sobre comandos, opciones y componentes
 - Preguntas frecuentes y resolución de problemas
 
 ## Próximos pasos
-- Explora los Casos para ver cómo otras personas usan el proyecto
-- Mira Videos para demos y charlas
 - ¿Necesitas ayuda? Visita Contacto

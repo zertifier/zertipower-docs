@@ -11,20 +11,8 @@
     "message": "Documentació",
     "description": "Element de la barra: Documentació"
   },
-  "item.label.Casos": {
-    "message": "Casos",
-    "description": "Element de la barra: Casos"
-  },
-  "item.label.Vídeos": {
-    "message": "Vídeos",
-    "description": "Element de la barra: Vídeos"
-  },
   "item.label.Contacto": {
     "message": "Contacte",
     "description": "Element de la barra: Contacte"
-  },
-  "item.label.Algoritmos": {
-    "message": "Algoritmes",
-    "description": "Element de la barra: Algoritmes"
   }
 }

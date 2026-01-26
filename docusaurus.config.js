@@ -49,7 +49,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'grexach-zertifier', // Your GitHub org/user name.
-  projectName: 'regenag-x-docs', // Your repo name.
+  projectName: 'zertipower-docs', // Your repo name.
   deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'throw',
@@ -61,28 +61,6 @@ const config = {
     defaultLocale: 'en',
     locales: ['es', 'en', 'ca'],
   },
-
-
-  plugins: [
-    [
-      '@docusaurus/plugin-content-docs',
-      {
-        id: 'algoritmos',
-        path: 'algoritmos',
-        routeBasePath: 'algoritmos',
-        sidebarPath: require.resolve('./sidebarsAlgoritmos.js'),
-      },
-    ],
-    [
-      '@docusaurus/plugin-content-docs',
-      {
-        id: 'casos',
-        path: 'casos',
-        routeBasePath: 'casos',
-        sidebarPath: require.resolve('./sidebarsCasos.js'),
-      },
-    ],
-  ],
 
   presets: [
     [
@@ -117,18 +95,15 @@ const config = {
         // Remove text title so only the logo is shown in the topbar
         title: '',
         logo: {
-          alt: 'RegenAg-x Logo',
-          src: 'img/RegenagxLight.png',
-          srcDark: 'img/RegenagxDark.png',
+          alt: 'Zertipower Logo',
+          src: 'img/ZertipowerLight.png',
+          srcDark: 'img/ZertipowerDark.png',
           // Use `href` (logo does not support `to`)
           href: 'documentacion/about/',
           target: '_self',
         },
         items: [
           { type: 'doc', docId: 'about', label: 'Documentación', position: 'left' },
-          { type: 'doc', docId: 'index', docsPluginId: 'casos', label: 'Casos', position: 'left' },
-          { type: 'doc', docId: 'index', docsPluginId: 'algoritmos', label: 'Algoritmos', position: 'left' },
-          { to: 'videos', label: 'Vídeos', position: 'left' },
           { to: 'contacto', label: 'Contacto', position: 'left' },
           {
             type: 'localeDropdown',
@@ -151,8 +126,6 @@ const config = {
           {
             title: 'Explorar',
             items: [
-              { label: 'Casos', to: 'casos' },
-              { label: 'Vídeos', to: 'videos' },
               { label: 'Contacto', to: 'contacto' },
             ],
           },

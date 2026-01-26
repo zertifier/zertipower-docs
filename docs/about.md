@@ -8,7 +8,7 @@ sidebar_label: Sobre RegenAg-x
 
 RegenAg-X es un centro demostrador de espacio de datos especializado en sistemas agrícolas regenerativos, diseñado para habilitar un entorno federado, seguro y auditable para el intercambio y procesamiento de datos agroalimentarios. Su objetivo es validar en un contexto real las capacidades técnicas, organizativas y económicas necesarias para operar un espacio de datos sectorial conforme a principios de soberanía del dato, computación segura y gobernanza descentralizada.
 
-El demostrador incorpora un modelo de acompañamiento técnico para facilitar la participación de agricultores, cooperativas, empresas tecnológicas y entidades de investigación que carecen de recursos para desarrollar casos de uso complejos de manera independiente. Esta aproximación permite evaluar con precisión las necesidades de integración, estandarización y orquestación de servicios en toda la cadena de suministro agroalimentaria.
+El demostrador incorpora un modelo de acompañamiento técnico para facilitar la participación de agricultores, cooperativas, empresas tecnológicas y entidades de investigación que carecen de recursos para desarrollar aplicaciones complejas de manera independiente. Esta aproximación permite evaluar con precisión las necesidades de integración, estandarización y orquestación de servicios en toda la cadena de suministro agroalimentaria.
 
 ## Gobernanza y roles operativos
 
@@ -26,7 +26,7 @@ La asignación de roles se gestiona mediante identidades verificables basadas en
 
 ## Arquitectura técnica y computación segura
 
-El demostrador integra capacidades avanzadas de *compute-to-data* a través del **Ocean Enterprise Collective**, habilitando la ejecución de algoritmos directamente sobre los datos de origen sin transferirlos ni replicarlos. Este enfoque preserva la confidencialidad y asegura la soberanía del dato por diseño.
+El demostrador integra capacidades avanzadas de *compute-to-data* a través del **Ocean Enterprise Collective**, habilitando la ejecución de procesos directamente sobre los datos de origen sin transferirlos ni replicarlos. Este enfoque preserva la confidencialidad y asegura la soberanía del dato por diseño.
 
 ![Modelo RegenAg-X](/img/about.png)
 

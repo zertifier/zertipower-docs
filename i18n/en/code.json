@@ -3,14 +3,6 @@
     "message": "Documentation",
     "description": "Navbar item for Documentation"
   },
-  "navbar.cases": {
-    "message": "Cases",
-    "description": "Navbar item for Cases"
-  },
-  "navbar.videos": {
-    "message": "Videos",
-    "description": "Navbar item for Videos"
-  },
   "navbar.contact": {
     "message": "Contact",
     "description": "Navbar item for Contact"
@@ -23,12 +15,6 @@
   },
   "footer.explore.title": {
     "message": "Explore"
-  },
-  "footer.explore.cases": {
-    "message": "Cases"
-  },
-  "footer.explore.videos": {
-    "message": "Videos"
   },
   "footer.explore.contact": {
     "message": "Contact"

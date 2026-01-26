@@ -158,3 +158,9 @@
   text-decoration-thickness: 2px;
   text-decoration-color: currentColor;
 }
+
+
+/* Make the logo in the navbar smaller and ensure it's centered */
+.navbar__logo {
+  height: 1.25rem;
+}

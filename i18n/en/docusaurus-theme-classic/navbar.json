@@ -11,20 +11,8 @@
     "message": "Documentation",
     "description": "Navbar item: Documentation"
   },
-  "item.label.Casos": {
-    "message": "Cases",
-    "description": "Navbar item: Cases"
-  },
-  "item.label.Vídeos": {
-    "message": "Videos",
-    "description": "Navbar item: Videos"
-  },
   "item.label.Contacto": {
     "message": "Contact",
     "description": "Navbar item: Contact"
-  },
-  "item.label.Algoritmos": {
-    "message": "Algorithms",
-    "description": "Navbar item: Algorithms"
   }
 }

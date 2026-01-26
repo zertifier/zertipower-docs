@@ -1,34 +1,32 @@
 ---
-title: Documentació
-description: Visió general, guies i recursos per treballar amb el projecte.
+title: Documentation
+description: Overview, guides, and resources for working with the project.
 slug: /documentacion-landing
 ---
 
-# Documentació
+# Documentation
 
-Benvingut al centre de documentació. Aquí trobaràs una vista ràpida, recursos clau i camins per aprofundir.
+Welcome to the documentation center. Here you will find a quick view, key resources, and paths to go deeper.
 
-## Inici ràpid
-- Passos d’instal·lació
-- Consells de configuració inicial
-- Un exemple mínim per verificar que tot funciona
+## Quick Start
+- Installation steps
+- Initial configuration tips
+- A minimum example to verify everything works
 
-## Àrees clau
-### Conceptes
-Explicacions breus de les idees centrals: què importa i per què.
+## Key Areas
+### Concepts
+Brief explanations of central ideas: what matters and why.
 
-### Guies
-Passos detallats per a tasques i fluxos de treball habituals.
+### Guides
+Detailed steps for common tasks and workflows.
 
-### Referència
-Referències concises i cercables d’ordres, opcions i components.
+### Reference
+Concise and searchable references of commands, options, and components.
 
-## Recursos destacats
-- Guia d’inici
-- Visió general de l’arquitectura
-- PMF i resolució d’incidències
+## Featured Resources
+- Getting Started Guide
+- Architecture Overview
+- FAQ and issue resolution
 
-## Próxims passos
-- Explora els Casos per veure com ho utilitzen altres
-- Mira Vídeos amb demos i xerrades
-- Necessites ajuda? Visita Contacte
+## Next Steps
+- Need help? Visit Contact
