@@ -1,13 +1,13 @@
 ---
-title: Absències UPC
-sidebar_label: upc_absences
+title: Absències
+sidebar_label: Absències
 ---
 
 ## Descripció
 
 Aquesta vista mostra informació relacionada amb les absències dels usuaris, incloent l'identificador, el motiu (si està disponible) i el període de temps (inici i final).
 
-## Estructura
+## Estructura (upc_absences)
 
 | Camp | Descripció |
 | --- | --- |
@@ -16,14 +16,3 @@ Aquesta vista mostra informació relacionada amb les absències dels usuaris, in
 | `reason` | Motiu de l'absència (pot ser 'Unknown') |
 | `start_dt` | Data i hora d'inici de l'absència |
 | `end_dt` | Data i hora de fi de l'absència |
-
-## Definició SQL
-
-```sql
-SELECT id,
-    cups_id,
-    COALESCE(reference, 'Unknown'::character varying) AS reason,
-    start_dt,
-    end_dt
-   FROM zertipower.vacations v;
-```

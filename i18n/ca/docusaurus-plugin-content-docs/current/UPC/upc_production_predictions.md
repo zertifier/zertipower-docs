@@ -1,13 +1,13 @@
 ---
-title: Prediccions de Producció UPC
-sidebar_label: upc_production_predictions
+title: Prediccions de Producció
+sidebar_label: Prediccions de Producció
 ---
 
 ## Descripció
 
 Vista per comparar la producció d'energia real amb l'esperada. Mostra la producció real i reserva camps per a la producció esperada i el percentatge de desviació.
 
-## Estructura
+## Estructura (upc_production_predictions)
 
 | Camp | Descripció |
 | --- | --- |
@@ -17,15 +17,3 @@ Vista per comparar la producció d'energia real amb l'esperada. Mostra la produc
 | `real_production_kwh` | Producción d'energia real registrada (kWh) |
 | `deviation_pct` | Percentatge de desviació entre l'esperat i el real |
 | `info_dt` | Data i hora a la qual pertany la informació |
-
-## Definició SQL
-
-```sql
-SELECT id,
-    cups_id,
-    NULL::numeric AS expected_production_kwh,
-    production AS real_production_kwh,
-    NULL::numeric AS deviation_pct,
-    info_dt
-   FROM zertipower.energy_hourly eh;
-```

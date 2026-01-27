@@ -1,13 +1,13 @@
 ---
-title: UPC Batteries
-sidebar_label: upc_batteries
+title: Batteries
+sidebar_label: Batteries
 ---
 
 ## Description
 
 This view provides technical details about registered batteries, such as brand, model, price, nominal energy capacity, life cycles, and temperature/charge limits.
 
-## Structure
+## Structure (upc_batteries)
 
 | Field | Description |
 | --- | --- |
@@ -27,25 +27,3 @@ This view provides technical details about registered batteries, such as brand, 
 | `max_charge_power_kw` | Maximum charge power (kW) |
 | `min_charge_power_kw` | Minimum charge power (kW) |
 | `created_dt` | Record creation date |
-
-## SQL Definition
-
-```sql
-SELECT id,
-    model,
-    brand,
-    price,
-    nominal_energy_kwh AS total_energy_kwh,
-    cycles_life AS max_cycles,
-    NULL::numeric AS estimated_cycle_cost,
-    max_charge_temperature_c AS max_charge_temp_c,
-    min_charge_temperature_c AS min_charge_temp_c,
-    max_discharge_temperature_c AS max_discharge_temp_c,
-    min_discharge_temperature_c AS min_discharge_temp_c,
-    charge_limit_level AS max_state_of_charge_pct,
-    discharge_limit_level AS min_state_of_charge_pct,
-    NULL::numeric AS max_charge_power_kw,
-    NULL::numeric AS min_charge_power_kw,
-    created_dt
-   FROM zertipower.batteries b;
-```

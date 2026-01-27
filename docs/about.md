@@ -1,71 +1,72 @@
 ---
 slug: /about/
-title: Descubre RegenAg-x
-sidebar_label: Sobre RegenAg-x
+title: Descubre Zertipower
+sidebar_label: Sobre Zertipower
 ---
 
-## RegenAg-X: Extrae el valor latente de los datos de tu explotación agraria
+## Zertipower: Gestiona y optimiza tu energía de forma inteligente
 
-RegenAg-X es un centro demostrador de espacio de datos especializado en sistemas agrícolas regenerativos, diseñado para habilitar un entorno federado, seguro y auditable para el intercambio y procesamiento de datos agroalimentarios. Su objetivo es validar en un contexto real las capacidades técnicas, organizativas y económicas necesarias para operar un espacio de datos sectorial conforme a principios de soberanía del dato, computación segura y gobernanza descentralizada.
+Zertipower es una plataforma avanzada de gestión energética diseñada para proporcionar un control total sobre el consumo y la producción de energía. Utiliza tecnologías de vanguardia para habilitar un entorno seguro, transparente y eficiente para la monitorización de datos energéticos. Su objetivo es empoderar a los usuarios permitiéndoles optimizar su uso de energía, reducir costes y participar de forma activa en la transición energética.
 
-El demostrador incorpora un modelo de acompañamiento técnico para facilitar la participación de agricultores, cooperativas, empresas tecnológicas y entidades de investigación que carecen de recursos para desarrollar aplicaciones complejas de manera independiente. Esta aproximación permite evaluar con precisión las necesidades de integración, estandarización y orquestación de servicios en toda la cadena de suministro agroalimentaria.
+La plataforma incorpora herramientas de análisis predictivo y optimización en tiempo real, facilitando la toma de decisiones informadas para hogares, empresas y comunidades energéticas. Zertipower simplifica la complejidad del mercado eléctrico y la gestión de activos renovables, permitiendo una integración fluida de diversas fuentes de datos y dispositivos IoT.
 
 ## Gobernanza y roles operativos
 
-RegenAg-X se rige por un código de gobernanza explícito que define responsabilidades, reglas de acceso y mecanismos de supervisión técnica. El modelo establece garantías de equidad, no discriminación y sostenibilidad, así como procedimientos para la aceptación de participantes y la gestión de políticas de uso.
+Zertipower se basa en un modelo de confianza y transparencia donde la integridad de los datos es fundamental. El sistema define claramente las responsabilidades y reglas de acceso para asegurar que cada participante tenga el control sobre su información.
 
-Los actores del espacio pueden asumir diferentes roles operativos:
+Los actores del ecosistema pueden asumir diferentes roles:
 
-* **Proveedores de datos**  
-* **Consumidores de datos**  
-* **Proveedores de servicios de procesamiento**  
-* **Operadores de infraestructura y servicios ecosistémicos**  
-* **Intermediarios de confianza** encargados de la ejecución controlada de procesos sobre datos sensibles
+* **Consumidores finales**  
+* **Productores de energía renovable**  
+* **Gestores de comunidades energéticas**  
+* **Proveedores de servicios de flexibilidad**  
+* **Auditores y validadores** 
 
-La asignación de roles se gestiona mediante identidades verificables basadas en tecnologías Web3.
+La gestión de identidades y permisos asegura que solo los usuarios autorizados accedan a la información crítica, manteniendo la privacidad y seguridad en todo momento.
 
-## Arquitectura técnica y computación segura
+## Arquitectura técnica y soberanía del dato
 
-El demostrador integra capacidades avanzadas de *compute-to-data* a través del **Ocean Enterprise Collective**, habilitando la ejecución de procesos directamente sobre los datos de origen sin transferirlos ni replicarlos. Este enfoque preserva la confidencialidad y asegura la soberanía del dato por diseño.
+Zertipower integra capacidades avanzadas de procesamiento de datos en el borde y en la nube, asegurando que la información se procese de manera eficiente y segura. El enfoque de "soberanía del dato" garantiza que los usuarios mantengan la propiedad y el control sobre sus datos de consumo y generación.
 
-![Modelo RegenAg-X](/img/about.png)
+![Modelo Zertipower](/img/ZertipowerLight.png)
 
 La arquitectura incluye:
 
-* **Protocolos Web3 y credenciales verificables (VC)** para autenticación, autorización y auditoría  
-* **Servicios de cómputo seguro** para análisis avanzado, IA y aprendizaje federado  
-* **Contenedores estandarizados (Docker/Kubernetes)** para encapsular servicios de procesamiento de datos  
-* **Mecanismos de trazabilidad y contabilización** mediante un libro mayor distribuido compatible con transacciones verificables y contratos inteligentes
+* **Protocolos de comunicación seguros** para la ingesta de datos de contadores inteligentes y sensores IoT.
+* **Algoritmos de IA y Machine Learning** para predicción de demanda y generación.
+* **Infraestructura escalable** capaz de gestionar grandes volúmenes de datos en tiempo real.
+* **Mecanismos de trazabilidad** para asegurar la transparencia en las transacciones y el origen de la energía.
 
-Estas capacidades permiten implementar políticas de uso granular, validar el cumplimiento en tiempo real y habilitar modelos de monetización basados en acceso, consulta o ejecución.
+Estas capacidades permiten implementar estrategias de ahorro personalizadas, validar el ahorro energético y habilitar nuevos modelos de negocio basados en la eficiencia.
 
-## Interoperabilidad y semántica
+## Interoperabilidad y estándares
 
-RegenAg-X incorpora servicios de transformación semántica para garantizar interoperabilidad entre fuentes heterogéneas.  
-El modelo semántico incluye:
+Zertipower está diseñado para ser interoperable con una amplia gama de dispositivos y plataformas.  
+El sistema soporta:
 
-* Normalización de formatos (JSON, CSV, XML)  
-* Mapas ontológicos y vocabularios de dominio agricultores/regenerativos  
-* Validación automática de estructuras y condiciones de uso  
-* Publicación en catálogos federados para su descubrimiento y reutilización
+* Integración con múltiples protocolos de telemedida.
+* APIs abiertas para la conexión con terceros proveedores de servicios.
+* Estandarización de datos para facilitar el intercambio de información energética.
+* Compatibilidad con sistemas de gestión de edificios (BMS) y domótica.
 
-Este enfoque permite que datos procedentes de sensores IoT, maquinaria agrícola, telemetría, sistemas de gestión agrícola o fuentes abiertas puedan agregarse y procesarse de manera uniforme.
+Este enfoque abierto permite que los datos procedentes de diferentes fabricantes y tecnologías se integren de manera cohesiva en una única interfaz de gestión.
 
-## Economía del dato y mecanismos de incentivo
+## Economía de la energía y sostenibilidad
 
-El demostrador incorpora capacidades de economía del dato mediante los mecanismos del Ocean Enterprise Collective:
+Zertipower impulsa una nueva economía energética basada en la eficiencia y la sostenibilidad:
 
-* Publicación de datasets y servicios computacionales como activos tokenizados  
-* Ejecución bajo contratos inteligentes que gobiernan permisos y compensaciones  
-* Liquidación automática de transacciones mediante contabilidad verificable  
-* Modelos de incentivo para fomentar la participación y la aportación de datos de valor
+* Optimización de la factura eléctrica mediante gestión inteligente de cargas.
+* Maximización del autoconsumo fotovoltaico y gestión de baterías.
+* Participación en mercados locales de energía y servicios de balance.
+* Seguimiento preciso de la huella de carbono y certificados de origen renovable.
 
-La infraestructura de registro distribuido mantiene un historial auditable de todas las operaciones realizadas en el espacio de datos.
+La plataforma proporciona las herramientas necesarias para transformar la energía en un activo gestionable y rentable, fomentando prácticas responsables y sostenibles.
 
-## Disponibilidad de recursos
+## Recursos disponibles
 
-RegenAg-X aloja tanto:
+Zertipower ofrece una amplia gama de recursos para sus usuarios:
 
-* **Recursos propietarios** compartidos bajo condiciones de uso definidas  
-* **Servicios computacionales avanzados** (analítica descriptiva, predictiva, prescriptiva)  
-* **Fuentes abiertas de alto valor** relevantes para agricultura regenerativa (observación terrestre, clima, suelos, biodiversidad, etc.)
+* **Dashboards interactivos** para visualización en tiempo real.
+* **Informes detallados** de rendimiento y ahorro.
+* **Alertas y recomendaciones** personalizadas basadas en patrones de uso.
+* **Documentación técnica** y soporte para la integración de nuevos activos.

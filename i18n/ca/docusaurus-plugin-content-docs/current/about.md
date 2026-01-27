@@ -1,72 +1,72 @@
 ---
 slug: /about/
-title: Descobreix RegenAg-x
-sidebar_label: Sobre RegenAg-x
+title: Descobreix Zertipower
+sidebar_label: Sobre Zertipower
 ---
 
-## RegenAg-X: Extreu el valor latent de les dades de la teva explotació agrària
+## Zertipower: Gestiona i optimitza la teva energia de forma intel·ligent
 
-RegenAg-X és un centre demostrador d’espai de dades especialitzat en sistemes agrícoles regeneratius, dissenyat per habilitar un entorn federat, segur i auditable per a l’intercanvi i el processament de dades agroalimentàries. El seu objectiu és validar, en un context real, les capacitats tècniques, organitzatives i econòmiques necessàries per operar un espai de dades sectorial d’acord amb els principis de sobirania del dada, computació segura i governança descentralitzada.
+Zertipower és una plataforma avançada de gestió energètica dissenyada per proporcionar un control total sobre el consum i la producció d'energia. Utilitza tecnologies d'avantguarda per habilitar un entorn segur, transparent i eficient per al monitoratge de dades energètiques. El seu objectiu és empoderar els usuaris permetent-los optimitzar el seu ús d'energia, reduir costos i participar de forma activa en la transició energètica.
 
-El demostrador incorpora un model d’acompanyament tècnic per facilitar la participació d’agricultors, cooperatives, empreses tecnològiques i centres de recerca que no disposen de recursos per desenvolupar aplicacions complexes de manera independent. Aquest enfocament permet avaluar amb precisió les necessitats d’integració, estandardització i orquestració de serveis al llarg de tota la cadena de subministrament agroalimentària.
+La plataforma incorpora eines d'anàlisi predictiva i optimització en temps real, facilitant la presa de decisions informades per a llar, empreses i comunitats energètiques. Zertipower simplifica la complexitat del mercat elèctric i la gestió d'actius renovables, permetent una integració fluida de diverses fonts de dades i dispositius IoT.
 
 ## Governança i rols operatius
 
-RegenAg-X es regeix per un codi de governança explícit que defineix responsabilitats, normes d’accés i mecanismes de supervisió tècnica. El model estableix garanties d’equitat, no discriminació i sostenibilitat, així com procediments per a l’acceptació de participants i la gestió de polítiques d’ús.
+Zertipower es basa en un model de confiança i transparència on la integritat de les dades és fonamental. El sistema defineix clarament les responsabilitats i regles d'accés per assegurar que cada participant tingui el control sobre la seva informació.
 
-Els actors de l’espai poden assumir diferents rols operatius:
+Els actors de l'ecosistema poden assumir diferents rols:
 
-* Proveïdors de dades  
-* Consumidors de dades  
-* Proveïdors de serveis de processament  
-* Operadors d’infraestructura i de serveis ecosistèmics  
-* Intermediaris de confiança responsables de l’execució controlada de processos sobre dades sensibles
+* **Consumidors finals**  
+* **Productors d'energia renovable**  
+* **Gestors de comunitats energètiques**  
+* **Proveïdors de serveis de flexibilitat**  
+* **Auditors i validadors** 
 
-L’assignació de rols es gestiona mitjançant identitats verificables basades en tecnologies Web3.
+La gestió d'identitats i permisos assegura que només els usuaris autoritzats accedeixin a la informació crítica, mantenint la privadesa i seguretat en tot moment.
 
-## Arquitectura tècnica i computació segura
+## Arquitectura tècnica i sobirania de la dada
 
-El demostrador integra capacitats avançades de *compute-to-data* a través de l’Ocean Enterprise Collective, habilitant l’execució de processos directament sobre les dades d’origen sense transferir-les ni replicar-les. Aquest enfocament preserva la confidencialitat i garanteix la sobirania del dada des del disseny.
+Zertipower integra capacitats avançades de processament de dades al límit (edge) i al núvol, assegurant que la informació es processi de manera eficient i segura. L'enfocament de "sobirania de la dada" garanteix que els usuaris mantinguin la propietat i el control sobre les seves dades de consum i generació.
 
-![Model RegenAg-X](/img/about.png)
+![Model Zertipower](/img/ZertipowerLight.png)
 
-L’arquitectura inclou:
+L'arquitectura inclou:
 
-* Protocols Web3 i credencials verificables (VC) per a l’autenticació, l’autorització i l’auditoria  
-* Serveis de computació segura per a anàlisi avançada, IA i aprenentatge federat  
-* Contenidors estandarditzats (Docker/Kubernetes) per encapsular serveis de processament de dades  
-* Mecanismes de traçabilitat i comptabilització mitjançant un llibre major distribuït compatible amb transaccions verificables i contractes intel·ligents
+* **Protocols de comunicació segurs** per a la ingesta de dades de comptadors intel·ligents i sensors IoT.
+* **Algorismes d'IA i Machine Learning** per a predicció de demanda i generació.
+* **Infraestructura escalable** capaç de gestionar grans volums de dades en temps real.
+* **Mecanismes de traçabilitat** per assegurar la transparència en les transaccions i l'origen de l'energia.
 
-Aquestes capacitats permeten implementar polítiques d’ús granulars, validar el compliment en temps real i habilitar models de monetització basats en accés, consulta o execució.
+Aquestes capacitats permeten implementar estratègies d'estalvi personalitzades, validar l'estalvi energètic i habilitar nous models de negoci basats en l'eficiència.
 
-## Interoperabilitat i semàntica
+## Interoperabilitat i estàndards
 
-RegenAg-X incorpora serveis de transformació semàntica per garantir la interoperabilitat entre fonts heterogènies.
+Zertipower està dissenyat per ser interoperable amb una àmplia gamma de dispositius i plataformes.  
+El sistema suporta:
 
-El model semàntic inclou:
+* Integració amb múltiples protocols de telemesura.
+* APIs obertes per a la connexió amb tercers proveïdors de serveis.
+* Estandardització de dades per facilitar l'intercanvi d'informació energètica.
+* Compatibilitat amb sistemes de gestió d'edificis (BMS) i domòtica.
 
-* Normalització de formats (JSON, CSV, XML)  
-* Mapes ontològics i vocabularis de domini agrícola/regeneratiu  
-* Validació automàtica d’estructures i condicions d’ús  
-* Publicació en catàlegs federats per al seu descobriment i reutilització
+Aquest enfocament obert permet que les dades procedents de diferents fabricants i tecnologies s'integrin de manera cohesiva en una única interfície de gestió.
 
-Aquest enfocament permet que dades procedents de sensors IoT, maquinària agrícola, telemetria, sistemes de gestió agrària o fonts obertes puguin agregar-se i processar-se de manera uniforme.
+## Economia de l'energia i sostenibilitat
 
-## Economia del dada i mecanismes d’incentiu
+Zertipower impulsa una nova economia energètica basada en l'eficiència i la sostenibilitat:
 
-El demostrador incorpora capacitats d’economia del dada mitjançant els mecanismes de l’Ocean Enterprise Collective:
+* Optimització de la factura elèctrica mitjançant gestió intel·ligent de càrregues.
+* Maximització de l'autoconsum fotovoltaic i gestió de bateries.
+* Participació en mercats locals d'energia i serveis de balanç.
+* Seguiment precís de l'empremta de carboni i certificats d'origen renovable.
 
-* Publicació de conjunts de dades i serveis computacionals com a actius tokenitzats  
-* Execució sota contractes intel·ligents que regeixen permisos i compensacions  
-* Liquidació automàtica de transaccions mitjançant comptabilitat verificable  
-* Models d’incentiu per fomentar la participació i l’aportació de dades de valor
+La plataforma proporciona les eines necessàries per transformar l'energia en un actiu gestionable i rentable, fomentant pràctiques responsables i sostenibles.
 
-La infraestructura de registre distribuït manté un historial auditable de totes les operacions realitzades a l’espai de dades.
+## Recursos disponibles
 
-## Disponibilitat de recursos
+Zertipower ofereix una àmplia gamma de recursos per als seus usuaris:
 
-RegenAg-X allotja:
-
-* **Recursos propietaris** compartits sota condicions d’ús definides  
-* **Serveis computacionals avançats** (analítica descriptiva, predictiva i prescriptiva)  
-* **Fonts obertes de gran valor** rellevants per a l’agricultura regenerativa (observació terrestre, clima, sòls, biodiversitat, etc.)
+* **Dashboards interactius** per a visualització en temps real.
+* **Informes detallats** de rendiment i estalvi.
+* **Alertes i recomanacions** personalizadas basades en patrons d'ús.
+* **Documentació tècnica** i suport per a la integració de nous actius.

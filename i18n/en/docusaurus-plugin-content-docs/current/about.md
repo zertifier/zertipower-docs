@@ -1,72 +1,72 @@
 ---
 slug: /about/
-title: Discover RegenAg-x
-sidebar_label: About RegenAg-x
+title: Discover Zertipower
+sidebar_label: About Zertipower
 ---
 
-## RegenAg-X: Harvest the hidden value in your farm data
+## Zertipower: Manage and optimize your energy intelligently
 
-RegenAg-X is a lighthouse data space specialized in regenerative agricultural systems, designed to enable a federated, secure and auditable environment for agrifood data exchange and processing. Its objective is to validate—under real operational conditions—the technical, organisational and economic capabilities required to operate a sector-specific data space aligned with principles of data sovereignty, secure computation and decentralised governance.
+Zertipower is an advanced energy management platform designed to provide full control over energy consumption and production. It utilizes cutting-edge technologies to enable a secure, transparent, and efficient environment for monitoring energy data. Its goal is to empower users by allowing them to optimize their energy use, reduce costs, and actively participate in the energy transition.
 
-The lighhouse incorporates a technical support model to facilitate the participation of farmers, cooperatives, technology companies and research institutions that lack the resources to independently develop complex applications. This approach allows for precise assessment of integration, standardisation and service orchestration requirements across the agrifood supply chain.
+The platform incorporates predictive analysis tools and real-time optimization, facilitating informed decision-making for households, businesses, and energy communities. Zertipower simplifies the complexity of the electricity market and the management of renewable assets, allowing for a seamless integration of various data sources and IoT devices.
 
 ## Governance and operational roles
 
-RegenAg-X is governed by an explicit governance framework that defines responsibilities, access rules and technical oversight mechanisms. The model guarantees fairness, non-discrimination and sustainability, and establishes procedures for participant onboarding and policy management.
+Zertipower is based on a model of trust and transparency where data integrity is fundamental. The system clearly defines responsibilities and access rules to ensure that each participant has control over their information.
 
-Participants in the space may assume different operational roles:
+Ecosystem actors can assume different roles:
 
-* Data providers  
-* Data consumers  
-* Processing service providers  
-* Infrastructure and ecosystem-service operators  
-* Trusted intermediaries responsible for controlled execution of processes on sensitive data
+* **End consumers**  
+* **Renewable energy producers**  
+* **Energy community managers**  
+* **Flexibility service providers**  
+* **Auditors and validators** 
 
-Role assignment is managed through verifiable identities based on Web3 technologies.
+Identity and permission management ensures that only authorized users access critical information, maintaining privacy and security at all times.
 
-## Technical architecture and secure computation
+## Technical architecture and data sovereignty
 
-The lighthouse integrates advanced compute-to-data capabilities through the Ocean Enterprise Collective, enabling processes to be executed directly on source datasets without transferring or replicating them. This preserves confidentiality and ensures data sovereignty by design.
+Zertipower integrates advanced data processing capabilities at the edge and in the cloud, ensuring that information is processed efficiently and securely. The "data sovereignty" approach guarantees that users maintain ownership and control over their consumption and generation data.
 
-![RegenAg-X Model](/img/about.png)
+![Zertipower Model](/img/ZertipowerLight.png)
 
 The architecture includes:
 
-* Web3 protocols and Verifiable Credentials (VCs) for authentication, authorization and auditing  
-* Secure computation services for advanced analytics, AI and federated learning  
-* Standardised containers (Docker/Kubernetes) to encapsulate data-processing services  
-* Traceability and accounting mechanisms based on a distributed ledger supporting verifiable transactions and smart contracts
+* **Secure communication protocols** for ingesting data from smart meters and IoT sensors.
+* **AI and Machine Learning algorithms** for demand and generation prediction.
+* **Scalable infrastructure** capable of managing large volumes of data in real-time.
+* **Traceability mechanisms** to ensure transparency in transactions and the origin of energy.
 
-These capabilities enable granular usage policies, real-time compliance validation, and monetization models based on access, query execution or compute cycles.
+These capabilities allow for the implementation of personalized savings strategies, validation of energy savings, and enablement of new business models based on efficiency.
 
-## Interoperability and semantics
+## Interoperability and standards
 
-RegenAg-X incorporates semantic transformation services to ensure interoperability across heterogeneous data sources.
+Zertipower is designed to be interoperable with a wide range of devices and platforms.  
+The system supports:
 
-The semantic model includes:
+* Integration with multiple telemetry protocols.
+* Open APIs for connecting with third-party service providers.
+* Data standardization to facilitate energy information exchange.
+* Compatibility with building management systems (BMS) and home automation.
 
-* Normalisation of formats (JSON, CSV, XML)  
-* Ontology mappings and domain vocabularies for agricultural and regenerative scenarios
-* Automatic validation of structures and usage conditions  
-* Publication in federated catalogues for discovery and reuse
+This open approach allows data from different manufacturers and technologies to be integrated cohesively into a single management interface.
 
-This approach allows data from IoT sensors, agricultural machinery, telemetry, farm-management systems or open datasets to be integrated and processed in a uniform manner.
+## Energy economy and sustainability
 
-## Data economy and incentive mechanisms
+Zertipower drives a new energy economy based on efficiency and sustainability:
 
-The lighthouse implements data-economy capabilities enabled by the Ocean Enterprise Collective:
+* Electricity bill optimization through intelligent load management.
+* Maximization of photovoltaic self-consumption and battery management.
+* Participation in local energy markets and balancing services.
+* Precise tracking of carbon footprint and renewable origin certificates.
 
-* Publication of datasets and computational services as tokenised assets  
-* Execution under smart contracts governing permissions and compensation  
-* Automatic settlement of transactions via verifiable accounting  
-* Incentive models to promote participation and contribution of high-value data
+The platform provides the necessary tools to transform energy into a manageable and profitable asset, promoting responsible and sustainable practices.
 
-The distributed ledger infrastructure maintains an auditable history of all operations executed within the data space.
+## Available resources
 
-## Resource availability
+Zertipower offers a wide range of resources for its users:
 
-RegenAg-X hosts:
-
-* Proprietary resources shared under defined usage conditions  
-* Advanced computational services (descriptive, predictive and prescriptive analytics)  
-* High-value open datasets relevant to regenerative agriculture (earth observation, climate, soil, biodiversity, etc.)
+* **Interactive dashboards** for real-time visualization.
+* **Detailed reports** on performance and savings.
+* **Personalized alerts and recommendations** based on usage patterns.
+* **Technical documentation** and support for integrating new assets.

@@ -1,13 +1,13 @@
 ---
-title: Bateries UPC
-sidebar_label: upc_batteries
+title: Bateries
+sidebar_label: Bateries
 ---
 
 ## Descripció
 
 Aquesta vista proporciona detalls tècnics sobre les bateries registrades, com ara marca, model, preu, capacitat energètica nominal, cicles de vida i límits de temperatura i càrrega.
 
-## Estructura
+## Estructura (upc_batteries)
 
 | Camp | Descripció |
 | --- | --- |
@@ -27,25 +27,3 @@ Aquesta vista proporciona detalls tècnics sobre les bateries registrades, com a
 | `max_charge_power_kw` | Potència màxima de càrrega (kW) |
 | `min_charge_power_kw` | Potència mínima de càrrega (kW) |
 | `created_dt` | Data de creació del registre |
-
-## Definición SQL
-
-```sql
-SELECT id,
-    model,
-    brand,
-    price,
-    nominal_energy_kwh AS total_energy_kwh,
-    cycles_life AS max_cycles,
-    NULL::numeric AS estimated_cycle_cost,
-    max_charge_temperature_c AS max_charge_temp_c,
-    min_charge_temperature_c AS min_charge_temp_c,
-    max_discharge_temperature_c AS max_discharge_temp_c,
-    min_discharge_temperature_c AS min_discharge_temp_c,
-    charge_limit_level AS max_state_of_charge_pct,
-    discharge_limit_level AS min_state_of_charge_pct,
-    NULL::numeric AS max_charge_power_kw,
-    NULL::numeric AS min_charge_power_kw,
-    created_dt
-   FROM zertipower.batteries b;
-```

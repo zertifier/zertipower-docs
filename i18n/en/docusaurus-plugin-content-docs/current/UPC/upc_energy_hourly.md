@@ -1,13 +1,13 @@
 ---
-title: UPC Hourly Energy
-sidebar_label: upc_energy_hourly
+title: Hourly Energy
+sidebar_label: Hourly Energy
 ---
 
 ## Description
 
 Provides an hourly breakdown of energy, detailing consumption (kwh_in), production, and surplus (kwh_out) for each supply point.
 
-## Structure
+## Structure (upc_energy_hourly)
 
 | Field | Description |
 | --- | --- |
@@ -17,15 +17,3 @@ Provides an hourly breakdown of energy, detailing consumption (kwh_in), producti
 | `production_kwh` | Energy produced (kWh) |
 | `surplus_kwh` | Surplus energy exported to the grid (kWh) - kwh_out |
 | `info_dt` | Date and time of the energy record |
-
-## SQL Definition
-
-```sql
-SELECT id,
-    cups_id,
-    kwh_in AS consumption_kwh,
-    production AS production_kwh,
-    kwh_out AS surplus_kwh,
-    info_dt
-   FROM zertipower.energy_hourly eh;
-```
