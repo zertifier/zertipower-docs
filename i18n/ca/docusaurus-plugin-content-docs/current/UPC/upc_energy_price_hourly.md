@@ -12,5 +12,5 @@ Aquesta vista mostra el preu de l'energia consumida (kwh_in_price) per hora. Fil
 | Camp | Descripció |
 | --- | --- |
 | `id` | Identificador únic del registre |
-| `kwh_price` | Preu del kWh consumit (Moneda local/kWh) |
+| `kwh_price` | Preu del kWh consumit (€/kWh) |
 | `info_dt` | Data i hora corresponent al preu |

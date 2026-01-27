@@ -14,10 +14,10 @@ This view provides technical details about registered batteries, such as brand, 
 | `id` | Unique battery identifier |
 | `model` | Battery model |
 | `brand` | Battery brand |
-| `price` | Unit price |
+| `price` | Unit price (€) |
 | `total_energy_kwh` | Nominal energy capacity (kWh) |
 | `max_cycles` | Maximum life cycles |
-| `estimated_cycle_cost` | Estimated cost per cycle (Numeric) |
+| `estimated_cycle_cost` | Estimated cost per cycle (€) |
 | `max_charge_temp_c` | Maximum charge temperature (°C) |
 | `min_charge_temp_c` | Minimum charge temperature (°C) |
 | `max_discharge_temp_c` | Maximum discharge temperature (°C) |

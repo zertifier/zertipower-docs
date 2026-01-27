@@ -12,5 +12,5 @@ This view shows the price of consumed energy (kwh_in_price) per hour. It filters
 | Field | Description |
 | --- | --- |
 | `id` | Unique record identifier |
-| `kwh_price` | Price per kWh consumed (Local currency/kWh) |
+| `kwh_price` | Price per kWh consumed (€/kWh) |
 | `info_dt` | Date and time corresponding to the price |

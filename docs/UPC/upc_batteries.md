@@ -14,10 +14,10 @@ Esta vista proporciona detalles técnicos sobre las baterías registradas, tales
 | `id` | Identificador único de la batería |
 | `model` | Modelo de la batería |
 | `brand` | Marca de la batería |
-| `price` | Precio de la unidad |
+| `price` | Precio de la unidad (€) |
 | `total_energy_kwh` | Capacidad energética nominal (kWh) |
 | `max_cycles` | Número máximo de ciclos de vida |
-| `estimated_cycle_cost` | Coste estimado por ciclo (Numérico) |
+| `estimated_cycle_cost` | Coste estimado por ciclo (€) |
 | `max_charge_temp_c` | Temperatura máxima permitida durante la carga (°C) |
 | `min_charge_temp_c` | Temperatura mínima permitida durante la carga (°C) |
 | `max_discharge_temp_c` | Temperatura máxima permitida durante la descarga (°C) |
