@@ -38,4 +38,4 @@ jobs:
           keep_files: false
           force_orphan: true
           # Ensure custom domain persists by writing CNAME on each deploy
-          cname: docs.regenag-x.com
+          cname: docs.zertipower.com
