@@ -14,6 +14,7 @@ Aquesta vista agrega informació sobre els punts de subministrament (CUPS), incl
 | `id` | Identificador únic del CUPS al sistema |
 | `cups` | Codi Universal de Punt de Subministrament |
 | `type` | Tipus de subministrament o tarifa |
+| `category` | Categoria del CUPS (Residencial, Enllumenat públic, Comercial, Piscina...) |
 | `p1_contracted_power_kw` | Potència contractada en període P1 (kW) |
 | `p2_contracted_power_kw` | Potència contractada en període P2 (kW) |
 | `p3_contracted_power_kw` | Potència contractada en període P3 (kW) |

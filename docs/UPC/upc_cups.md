@@ -14,6 +14,7 @@ Esta vista agrega información sobre los puntos de suministro (CUPS), incluyendo
 | `id` | Identificador único del CUPS en el sistema |
 | `cups` | Código Universal de Punto de Suministro |
 | `type` | Tipo de suministro o tarifa |
+| `category` | Categoría del CUPS (Residencial, Alumbrado público, Comercial, Piscina...) |
 | `p1_contracted_power_kw` | Potencia contratada en periodo P1 (kW) |
 | `p2_contracted_power_kw` | Potencia contratada en periodo P2 (kW) |
 | `p3_contracted_power_kw` | Potencia contratada en periodo P3 (kW) |
