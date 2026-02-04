@@ -1,0 +1,1 @@
+(globalThis.webpackChunkzertipower_docs=globalThis.webpackChunkzertipower_docs||[]).push([[741],{5741:()=>{}}]);
